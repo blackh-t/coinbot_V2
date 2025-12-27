@@ -1,4 +1,4 @@
-# [CoinBot.locker](coinbot.locker)
+# [CoinBot](http://coinbot.locker/)
 
 # Service Policy & Terms of Service
 **Last Updated:** December 2025
@@ -40,4 +40,4 @@ Our Virtual Account architecture allows for flexible liquidity.
 By using Coinbot, you acknowledge that cryptocurrency trading involves risk. The platform is not liable for losses resulting from global market downturns, user negligence, or failure to adhere to the Deposit Protocols outlined in Section 1.
 
 ---
-© 2025 Coinbot Syndicate. All rights reserved.
+© 2025 Coinbot.locker All rights reserved.
